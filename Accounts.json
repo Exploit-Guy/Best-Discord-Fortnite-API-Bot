@@ -1,0 +1,64 @@
+{
+    "1243455559261491321": {
+        "auths": [
+            {
+                "account_id": "f03b09d85af14acb9dd3e65eb7d75bbb",
+                "device_id": "4c6337cbfdf64c538eb25a3716a53e36",
+                "secret": "XLBCBCJI55CWIGA3LTW6HSKZNUIDYGSJ",
+                "displayName": "x1vy2"
+            },
+            {
+                "account_id": "a371981e624f4345a0ee6a9968c5f370",
+                "device_id": "3941915d47524021b79e7a67fc92be6f",
+                "secret": "2TKKYWAGPCIJEBTU4QLNWJRW3HWELQZA",
+                "displayName": "bot man 838"
+            },
+            {
+                "account_id": "146dda0f641e4294b5473a452a37effd",
+                "device_id": "d4521cd902fd4985b8d129d55cbdecc0",
+                "secret": "YU4CGHMRUNIJHUOPGQ2YCA7JEL2AJ7TC",
+                "displayName": "xivy \u03df"
+            },
+            {
+                "account_id": "c3202d2269a24b10a42421052b0ba8e3",
+                "device_id": "ad8bc049e87a4321997b9d9f38ed43f9",
+                "secret": "SHPZMFKX4W5QZZPN3HB7TMKG4UZTFHMO",
+                "displayName": "Aspectbot."
+            }
+        ],
+        "selectedIdx": 3
+    },
+    "1222882550779871343": {
+        "auths": [
+            {
+                "account_id": "580f5cccd2074a13b4e4be19e202df69",
+                "device_id": "464474c07b234c5b86a1088fd79dd093",
+                "secret": "NCHODPZP5GWOPHRPWAWVLSVPORIHJJ4V",
+                "displayName": "afgfdsdgggadsff"
+            }
+        ],
+        "selectedIdx": 0
+    },
+    "1128796882488016996": {
+        "auths": [
+            {
+                "account_id": "539b28d5750f4426a27655b6aacf029b",
+                "device_id": "b6b886942b5f4a219b5e7ab4b31e7cd7",
+                "secret": "GSCYSABY6627B7JV5MVZW6MGH5AWV3JL",
+                "displayName": "\u05e9\u0651\u064d\u064b\u064d\u064d\u064d\u064d\u064d\u064d\u064d-\u05e9\u0651\u064d"
+            }
+        ],
+        "selectedIdx": 0
+    },
+    "1195941536488231082": {
+        "auths": [
+            {
+                "account_id": "87233557cc75411f821e7cae35940a12",
+                "device_id": "92226414521547958f514a8addb17e88",
+                "secret": "OM4G3D6AVJKAQOJC7WFYIDNJ3GROJ5P4",
+                "displayName": "Sinplyyyyyyyy1"
+            }
+        ],
+        "selectedIdx": 0
+    }
+}
