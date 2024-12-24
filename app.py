@@ -10,7 +10,7 @@ from nextcord.ui import View, Button
 import asyncio
 from nextcord import Interaction, ButtonStyle, Embed
 import copy
-from keep_alive import keep_alive
+#from keep_alive import keep_alive
 
 
 serverid = 1249026688470225037
@@ -3038,5 +3038,5 @@ async def playtime_ultra(inter: Interaction):
 
 if __name__ == '__main__':
   Cosmetics.Initiate()
-  keep_alive()  # Starts a webserver to be pinged.
+  #keep_alive()  # Starts a webserver to be pinged.
   bot.run(str(os.getenv("TOKEN")))
